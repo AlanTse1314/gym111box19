@@ -48,8 +48,8 @@
 {"key":"csp_appysv2_独优影视"   ,"name":"🐌独优影视(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
 {"key":"csp_appysv2_300看世界"  ,"name":"🐌300看世界(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://300ys.xyz/mogai_api.php/v1.vod"},
 {"key":"csp_appys_美剧虫"       ,"name":"🐌美剧虫(v1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
-{"key":"csp_appysv2_钟特影视"   ,"name":"🐌钟特影视(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.zteys.com/api.php/v1.vod"},
-{"key":"csp_appysv2_9E03"       ,"name":"🐌9E03影视(v2)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
+//{"key":"csp_appysv2_钟特影视"   ,"name":"🐌钟特影视(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.zteys.com/api.php/v1.vod"},
+//{"key":"csp_appysv2_9E03"       ,"name":"🐌9E03影视(v2)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
 //
 {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://liu673cn.coding.net/p/x/d/box/git/raw/main/sub/xpath/虎牙.json"},
 {"key":"csp_xpath_huyam","name":"🐻虎牙M","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.coding.net/p/x/d/box/git/raw/main/sub/xpath/huya.json"},

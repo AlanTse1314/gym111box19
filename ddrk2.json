@@ -11,11 +11,11 @@
   // 网站翻页链接的后缀
   "houzhui": ".html",
   // 截取的列表数组是否需要二次截取，0不需要，1需要
-  "shifouercijiequ": "1",
+  "shifouercijiequ": "0",
   // 二次截取前
-  "jiequqian": "</button>",
+  "jiequqian": "空",
   // 二次截取后
-  "jiequhou": "class=\"myui-extra clearfix",
+  "jiequhou": "空",
   // 截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
   "jiequshuzuqian": "class=\"myui-vodlist__thumb lazyload",
   // 列表数组的后关键词

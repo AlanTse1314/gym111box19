@@ -13,11 +13,11 @@
   // 截取的列表数组是否需要二次截取，0不需要，1需要
   "shifouercijiequ": "1",
   // 二次截取前
-  "jiequqian": "class=\"myui-vodlist__box\"",
+  "jiequqian": "class=\"myui-vodlist__thumb lazyload\"",
   // 二次截取后
   "jiequhou": "class=\"myui-nav__tabbar",
   // 截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
-  "jiequshuzuqian": "class=\"myui-vodlist__thumb lazyload\"",
+  "jiequshuzuqian": "class=\"myui-vodlist__box\"",
   // 列表数组的后关键词
   "jiequshuzuhou": "</span>",
   // 列表中资源的图片前,后关键词,截取的关键词有 " 的用 \ 进行转义

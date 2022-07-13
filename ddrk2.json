@@ -57,11 +57,11 @@
   "bfjiequshuzuhou": "</ul>",
   // 详情页状态,导演,主演,简介关键词
   "zhuangtaiqian": "状态：</span>",
-  "zhuangtaihou": "</a>",
+  "zhuangtaihou": "</p>",
   "daoyanqian": "导演：</span>",
-  "daoyanhou": "</a>",
+  "daoyanhou": "</p>",
   "zhuyanqian": "主演：</span>",
-  "zhuyanhou": "</a>",
+  "zhuyanhou": "</p>",
   "juqingqian": "简介：</span>",
   "juqinghou": "</a>",
   // 截取的播放列表数组是否需要二次截取，0不需要，1需要

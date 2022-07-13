@@ -1,6 +1,6 @@
 {
 "sites": [
-{"key":"csp_biubiu_tegou"      ,"name":"🐛特狗影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://liu673cn.coding.net/p/x/d/box/git/raw/main/sub/biubiu/钟特影视.json"},
+{"key":"csp_biubiu_zteys"      ,"name":"🐛钟特影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://liu673cn.coding.net/p/x/d/box/git/raw/main/sub/biubiu/钟特影视.json"},
 {"key":"csp_77"            ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan"       ,"name":"🐞快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ikan"          ,"name":"🐞爱看影视","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},

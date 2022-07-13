@@ -14,7 +14,7 @@
         "哔哩哔哩": "26"
     },
     // 首页推荐视频的节点
-    "homeVodNode": "//div[@class='myui-vodlist__box']/li/a",
+    "homeVodNode": "//ul[@class='myui-vodlist clearfix']/li/a",
     // 首页推荐视频的名称
     "homeVodName": "/@title",
     // 二次处理正则
@@ -34,7 +34,7 @@
     // 分类页地址 {cateId} 分类id {catePg} 当前页
     "cateUrl": "https://app.zteys.com/index.php/vod/type/id/{cateId}/page/{catePg}.html",
     // 同上面的homeVod字段 分类列表中的视频信息
-    "cateVodNode": "//ul[@class='stui-vodlist clearfix']/li/a",
+    "cateVodNode": "//ul[@class='myui-vodlist clearfix']/li/a",
     "cateVodName": "/@title",
     "cateVodId": "/@href",
     "cateVodIdR": "/id/(\\w+).html",

@@ -8,8 +8,8 @@
         {
           "name": "redirect",
           "urls": [
-            //"proxy://do=live&type=txt&ext=https://liu673cn.coding.net/p/x/d/box/git/raw/main/live/tv.txt"
-             "proxy://do=live&type=txt&ext=https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Live.txt"
+            "proxy://do=live&type=txt&ext=https://liu673cn.coding.net/p/x/d/box/git/raw/main/live/Live.txt"
+             //"proxy://do=live&type=txt&ext=https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Live.txt"
           ]
         }
       ]

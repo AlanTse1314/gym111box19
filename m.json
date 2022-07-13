@@ -1,4 +1,19 @@
 {
+    "lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "redirect",
+          "urls": [
+            "proxy://do=live&type=txt&ext=https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Live.txt"
+          ]
+        }
+      ]
+    }
+  ],
+//"spider":"https://liu673cn.coding.net/p/x/d/box/git/raw/main/jar/spider2207.jar;md5;727C472F6F06E2958FF50FBD0C2AAE21",
+  "spider": "https://gitea.com/Pandora2277/TV/raw/branch/main/custom_spider.jar",
 "sites": [
 {"key":"csp_77"            ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan"       ,"name":"🐞快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -500,12 +515,6 @@
 {"name": "解117","type": 1,"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1494542&key=ijmqvwxABEHILMOT48&url="},
 {"name": "解118","type": 1,"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=594615&key=bcehpqtxCEGKMT0248&url="}
 ],
-"lives": [
-{"group": "redirect","channels": [{"name": "redirect","urls": [
-  //"proxy://do=live&type=txt&ext=aHR0cHM6Ly9rZHMyLmNvZGluZy5uZXQvcC9rL2Qvay9naXQvcmF3L21hc3Rlci9tYW9saXZlLnR4dA=="
-    "proxy://do=live&type=txt&ext=https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Live.txt"
-]}]}],
-"spider":"https://liu673cn.coding.net/p/x/d/box/git/raw/main/jar/spider2207.jar;md5;727C472F6F06E2958FF50FBD0C2AAE21",
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
 {"group":"软解码","options":[

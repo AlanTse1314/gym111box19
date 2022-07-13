@@ -14,7 +14,7 @@
         "哔哩哔哩": "26"
     },
     // 首页推荐视频的节点
-    "homeVodNode": "//ul[@class='myui-vodlist clearfix']/li/a",
+    "homeVodNode": "//div[@class='myui-vodlist__box']/li/a",
     // 首页推荐视频的名称
     "homeVodName": "/@title",
     // 二次处理正则

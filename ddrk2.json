@@ -11,15 +11,15 @@
   // 网站翻页链接的后缀
   "houzhui": ".html",
   // 截取的列表数组是否需要二次截取，0不需要，1需要
-  "shifouercijiequ": "0",
+  "shifouercijiequ": "1",
   // 二次截取前
-  "jiequqian": "空",
+  "jiequqian": "class=\"li_all",
   // 二次截取后
-  "jiequhou": "空",
+  "jiequhou": "class=\"footer clearfix",
   // 截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
-  "jiequshuzuqian": "class=\"li_all",
+  "jiequshuzuqian": "<a",
   // 列表数组的后关键词
-  "jiequshuzuhou": "</li>",
+  "jiequshuzuhou": "</a>",
   // 列表中资源的图片前,后关键词,截取的关键词有 " 的用 \ 进行转义
   "tupianqian": "src=\"",
   "tupianhou": "\">",

@@ -18,7 +18,7 @@
         "欧美剧": "category/drama/western-drama"
     },
     // 首页推荐视频的节点
-    "homeVodNode": "//ul[@class='stui-vodlist clearfix']/li/a",
+    "homeVodNode": "//div[@class='post-box-list']/li/a",
     // 首页推荐视频的名称
     "homeVodName": "/@title",
     // 二次处理正则

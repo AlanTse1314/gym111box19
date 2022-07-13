@@ -325,7 +325,6 @@
 {"name":"龙虾","type":1,"url":"http://81.71.48.249:4456/jsonc/longxia.php?url="},
 {"name":"测试","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 {"name":"293视频","type":1,"url": "http://81.71.48.249:4456/jsonc/293shipin.php?url="},
-"ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"]}},
 {"name":" 线路1","type":1,"url":"https://jx.hfyrw.com/mao.go?url="},
 {"name": "线路2","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url=","ext":{	"flag":["youku","优酷","qq","腾讯","mgtv","芒果"]}},
 {"name": "线路3","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=9105801&key=huwxFGILMOQSTUZ679&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果"]}},

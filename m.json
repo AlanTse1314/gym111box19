@@ -47,6 +47,7 @@
 {"key":"csp_appysv2_300看世界"  ,"name":"🐌300看世界(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://300ys.xyz/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_钟特影视"   ,"name":"🐌钟特影视(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.zteys.com/api.php/v1.vod"},
 {"key":"csp_appys_美剧虫"       ,"name":"🐌美剧虫(v1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
+{"key":"csp_biubiu_XBiubiu"    ,"name":"🐛XBiubiu","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.coding.net/p/x/d/box/git/raw/main/xbb.json"},
 {"key":"csp_BBB"           ,"name":"🐞哔哩哔哩","type": 3,"api": "csp_BBB","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar/bili.json"},
 {"key":"csp_Blixs"         ,"name":"🐞相声小品","type":3,"api":"csp_Blixs","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bliyc"         ,"name":"🐞演唱会","type":3,"api":"csp_Bliyc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar/singers.json"},

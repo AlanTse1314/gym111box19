@@ -11,7 +11,7 @@
 
 ### 3. 使用设置  
 1). 配置地址---输入站源---确定即可  
-- URL站源规则 `https://raw.fastgit.org/liu673cn/box/main/m.json`  
+- URL站源规则 `https://gitea.com/liucn/box/raw/branch/main/m.json`  
 
 2). 开启存储权限——将源接口文件放到根目录文件夹下  
 - clan://localhost/Download/BroWser/  
@@ -38,9 +38,9 @@ https://raw.fastgit.org/
 
 https://raw-gh.gcdn.mirr.one/
 
-https://cdn.jsdelivr.net/gh/liu673cn/box@main/
+https://cdn.jsdelivr.net/gh/用户名/项目@main/txt.txt
 
-https://purge.jsdelivr.net/gh/liu673cn/box@main/
+https://purge.jsdelivr.net/gh/用户名/项目@main/txt.txt
 
 --------
 ### 以上为互联网流传资源，不保证内容的真实性和可靠性。本页面只是收集，自用请勿宣传。

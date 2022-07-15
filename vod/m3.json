@@ -500,7 +500,7 @@
 {
 "name": "redirect",
 "urls": [
-"proxy://do=live&type=txt&ext=https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Live.txt"
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vbGl1Y24vYm94L3Jhdy9icmFuY2gvbWFpbi9saXZlL20zLnR4dA=="
 ]}]}],
 "spider":"https://gitea.com/liucn/box/raw/branch/main/jar/spider_m3.jar;md5;6FA1249AE7BEEB0222A05DB1BC58FB26",
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],

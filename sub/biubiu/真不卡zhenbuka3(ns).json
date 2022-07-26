@@ -1,11 +1,11 @@
 {
-  "name": "真不卡影院-不支持搜索",
+  "name": "真不卡影院",
   //"url": "https://www.zhenbuka5.com",
   "url": "http://zbkyy.com",
   "tihuan": "cnzz.com",
   "User": "空",
   "shouye": "1",
-  "fenlei": "电视剧$/vodshow/2--------#电影$/vodshow/1--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------#动作片$/vodshow/6--------#喜剧片$/vodshow/7--------#爱情片$/vodshow/8--------#科幻片$/vodshow/9--------#恐怖片$/vodshow/10--------#剧情片$/vodshow/11--------#战争片$/vodshow/12--------#国产剧$/vodshow/13--------#港台剧$/vodshow/14--------#日韩剧$/vodshow/15--------#欧美剧$/vodshow/16--------",
+  "fenlei": "电影$/vodshow/1--------#电视剧$/vodshow/2--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------#国漫$/vodshow/4-中国大陆-------#日漫$/vodshow/4-日本-------#理伦$/vodshow/20--------#动作$/vodshow/5--------#喜剧$/vodshow/6--------#爱情$/vodshow/7--------#科幻$/vodshow/8--------#恐怖$/vodshow/9--------#剧情$/vodshow/10--------#战争$/vodshow/11--------#纪录片$/vodshow/22--------#国产剧$/vodshow/12--------#港剧$/vodshow/13--------#台剧$/vodshow/14--------#日剧$/vodshow/15--------#韩剧$/vodshow/16--------#美剧$/vodshow/17--------#海外剧$/vodshow/18--------",
   "houzhui": "---/",
   "shifouercijiequ": "0",
   "jiequqian": "空",
@@ -20,7 +20,7 @@
   "lianjiehou": "\"",
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=50",
-  "sousuohouzhui": "/vodplay/",
+  "sousuohouzhui": "/voddetail/",
   "ssmoshi": "0",
   "sousuoshifouercijiequ": "0",
   "jspic": "pic",
@@ -47,7 +47,7 @@
   "daoyanhou": "</p>",
   "zhuyanqian": "主演：</span>",
   "zhuyanhou": "</p>",
-  "juqingqian": "class=\"detail-sketch",  //简介：</span>
+  "juqingqian": "class=\"detail-sketch hide\"",  //简介：</span>
   "juqinghou": "</span>",
   "bfyshifouercijiequ": "0",
   "bfyjiequqian": "空",

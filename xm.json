@@ -39,9 +39,7 @@
 {"key":"csp_Mjxq","name":"🌏美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Tkys","name":"🐞天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xxys","name":"🔥小熊影院(SP)","type": 3,"api": "csp_Xxys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp06.jar"},
-{"key":"csp_QQ","name":" 🍅腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp06.jar"},
-{"key":"csp_IQIYI","name":"🥝爱奇艺(SP)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp06.jar"},
-{"key":"csp_MGTV","name":"🥭芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp06.jar"},
+
 {"key":"csp_3EDY","name":"🔥3E飘花(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp081.jar"},
 {"key":"csp_Ekan","name":"🔥EK多多(SP)","api":"csp_Ekan","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/sp081.jar"},
 {"key":"csp_Kuaikan","name":"🔥快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},

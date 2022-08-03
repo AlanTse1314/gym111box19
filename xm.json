@@ -9,6 +9,17 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "spider":"https://gitea.com/liucn/box/raw/branch/main/jar/spider081.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea",
+	"lives": [
+{
+"group": "redirect",
+"channels": [
+{
+"name": "redirect",
+"urls": [
+//"proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vbGl1Y24vYm94L3Jhdy9icmFuY2gvbWFpbi9saXZlL20yLnR4dA=="
+]}]}],
+
 "sites": [
 {"key":"csp_Kunyu77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎小苹果HD","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -389,16 +400,7 @@
 {"name":"秒播解析","type":1,"url":"https://www.hfyrw.com/json.php?url="},
 {"name":"虾米解析","type":0,"url":"https://jx.xmflv.com/?url="} 
   ],
-"lives": [
-{
-"group": "redirect",
-"channels": [
-{
-"name": "redirect",
-"urls": [
-//"proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vbGl1Y24vYm94L3Jhdy9icmFuY2gvbWFpbi9saXZlL20yLnR4dA=="
-]}]}],
+
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
 {"group":"软解码","options":[
